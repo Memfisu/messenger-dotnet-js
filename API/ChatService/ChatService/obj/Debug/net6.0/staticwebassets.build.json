@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "LBLOw4bJoPQBIgP981u9Qiizla0Ky3RcWFKaboxyOqc=",
+  "Source": "ChatService",
+  "BasePath": "_content/ChatService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\memfi\\OneDrive\\Desktop\\chatty\\API\\ChatService\\ChatService\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ChatService.styles.css",
+      "SourceId": "ChatService",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\memfi\\OneDrive\\Desktop\\chatty\\API\\ChatService\\ChatService\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ChatService",
+      "RelativePath": "ChatService.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\memfi\\OneDrive\\Desktop\\chatty\\API\\ChatService\\ChatService\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ChatService.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\memfi\\OneDrive\\Desktop\\chatty\\API\\ChatService\\ChatService\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatService.bundle.scp.css",
+      "SourceId": "ChatService",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\memfi\\OneDrive\\Desktop\\chatty\\API\\ChatService\\ChatService\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ChatService",
+      "RelativePath": "ChatService.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\memfi\\OneDrive\\Desktop\\chatty\\API\\ChatService\\ChatService\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatService.bundle.scp.css"
+    }
+  ]
+}
